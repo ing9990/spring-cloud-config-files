@@ -1,6 +1,6 @@
 token:
   expiration_time: 8640000000
-  secret: aGVsbG93b3JsZA==
+  secret: ecommerce-aGVsbG93b3JsZA==
 
 gateway:
   ip: 127.0.0.1
