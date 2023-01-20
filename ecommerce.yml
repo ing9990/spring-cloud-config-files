@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8640000
-  secret: sec-aGVsbG93b3JsZA==
+  expiration_time: 111111
+  secret: helloworld=
 
 gateway:
   ip: 127.0.0.1
