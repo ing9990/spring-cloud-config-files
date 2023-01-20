@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8640
-  secret: aGVsbG93b3JsZA==
+  expiration_time: 8640000
+  secret: sec-aGVsbG93b3JsZA==
 
 gateway:
   ip: 127.0.0.1
