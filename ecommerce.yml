@@ -1,6 +1,6 @@
 token:
-  expiration_time: 369369369369
-  secret: byebyeworld12345
+  expiration_time: 864000000
+  secret: c3ByaW5nLWNsb3VkLWV1cmVrYS1zZXJ2ZXI=
 
 gateway:
   ip: 127.0.0.1
