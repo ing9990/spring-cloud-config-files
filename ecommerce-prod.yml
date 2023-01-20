@@ -1,6 +1,7 @@
 token:
   expiration_time: 864000000
   secret: c3ByaW5nLWNsb3VkLWV1cmVrYS1zZXJ2ZXI=_prod
+  mode: product_setting
 
 gateway:
   ip: 127.0.0.1
